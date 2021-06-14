@@ -465,5 +465,5 @@ before merging.
 .. _`PSR-2`: https://www.php-fig.org/psr/psr-2/
 .. _`searching on GitHub`: https://github.com/symfony/symfony/issues?q=+is%3Aopen+
 .. _`Symfony Slack`: https://symfony.com/slack-invite
-.. _`Travis-CI`: https://travis-ci.org/symfony/symfony
+.. _`Travis-CI`: https://travis-ci.com/github/symfony/symfony
 .. _`Psalm phar is installed`: https://psalm.dev/docs/running_psalm/installation/
